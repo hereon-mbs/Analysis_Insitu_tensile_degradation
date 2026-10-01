@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "Analysis_Insitu_tensile_degradation"
+message: "If you use this software, please cite it using the metadata provided in this file."
+type: software
+ 
+authors:
+- family-names: "Hindenlang"
+given-names: "Birte"
+ 
+contact:
+- family-names: "Wieland"
+given-names: "D.C.F."
+affiliation: "Helmholtz-Zentrum Hereon"
+ 
+repository-code: "https://github.com/hereon-mbs/Analysis_Insitu_tensile_degradation"
+ 
+doi: "10.5281/zenodo.22793692"
+ 
+abstract: >
+Analysis scripts of in situ tensile degradation experiments with µCT.
+Determined are stress-strain curves and three-dimensional degradation
+parameters at different force steps.
+ 
+keywords:
+- MATLAB
+- micro-CT
+- degradation
+- tensile testing
+- stress-strain
+- synchrotron
+ 
+license: "MIT"
+ 
+version: "1.0"
+ 
+date-released: "2026-09-16"
