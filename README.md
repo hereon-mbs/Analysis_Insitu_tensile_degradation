@@ -55,6 +55,20 @@ To plot the stress-strain curve of the in situ tensile experiment, the script In
 2.	The script can be run for a single or multiple samples, which are then plotted in one graph
 3.	Prior to running the script, the samples, beamtime, and year have to be defined 
 
+**Requirements**
+ 
+- MATLAB R2024a or newer
+- Image Processing Toolbox
+ 
+External dependencies
+ 
+- contact_area.m
+https://github.com/moosmann/matlab
+ 
+Citation
+ 
+If you use this software, please cite the corresponding Zenodo release.
+
 **References**
 
 [1] Julian Moosmann, https://github.com/moosmann/matlab/blob/master/matlab/utilities/contact_area.m
